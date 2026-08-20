@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "us.nmao.compete",
-      "sha256_cert_fingerprints": ["SHA256_FINGERPRINT_PLACEHOLDER"]
+      "sha256_cert_fingerprints": ["0A:5D:49:91:70:65:54:78:35:7B:89:9A:A6:22:EF:DD:17:DB:E3:00:8B:70:21:29:6C:C8:69:DD:85:29:FB:90"]
     }
   }
 ]
